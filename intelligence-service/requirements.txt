@@ -1,0 +1,17 @@
+# Intelligence Service Requirements
+# Updated for Python 3.14 compatibility
+
+# FastAPI and server
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+
+# ML and data processing
+pandas>=2.2.0
+numpy>=1.26.4
+scikit-learn>=1.5.0
+
+# Additional utilities
+python-multipart>=0.0.6
+httpx>=0.25.1
+
